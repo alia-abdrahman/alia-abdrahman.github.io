@@ -1,9 +1,11 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/img.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi,there! Nice to meet you :) 
   <br><br>
-  Second description 
+  I am Alia based in Selangor
+  <br><br>
+  Welcome to my first ever Github Profile a.k.a Online CV
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   

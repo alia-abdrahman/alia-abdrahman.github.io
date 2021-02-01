@@ -10,10 +10,10 @@ Specializing in Information, Assurance and Security (IAS) as I am very intereste
 ---
 <ul>
   <li>Cyber Security / Information System Security</li>
-  - Risk Management
-  - Information Privacy
-  - Control Audit & Information Systems
-  - Business Continuity & Disaster Recovery 
+  <p>- Risk Management</p>
+  <p>- Information Privacy</p>
+  <p>- Control Audit & Information Systems</p>
+  <p>- Business Continuity & Disaster Recovery</p>
   <li>System Development</li>
   - Web Application Development
 </ul>

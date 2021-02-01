@@ -9,7 +9,7 @@ Specializing in Information, Assurance and Security (IAS) as I am very intereste
 
 ---
 <ul>
-  <li>Cyber Security</li>
+  <li>Cyber Security / Information System Security</li>
   - Risk Management
   - Information Privacy
   - Control Audit & Information Systems

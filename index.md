@@ -31,7 +31,7 @@
 <img src="dummy_thumbnail.jpg?raw=true"/>
 <img src="images/KSS.png">
 "/images/KSS.png?raw=true"
-![Image](src)
+![KSS.png](images/KSS.png)
 
 <p>For my Final Year Project as a student from Kulliyyah of Information Communication and Technology (KICT), I had team up with my partner, Sumaia binti Shikh Nasir to develop a web application system for the purpose of educating and helping the elderly about the importance of protecting their personal data in the cyberspace.
 To be more exact, it is a platform to assist the elderly on how to protect their data and themselves in the cyberspace.

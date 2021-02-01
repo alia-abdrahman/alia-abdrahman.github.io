@@ -5,18 +5,22 @@
 A final year student of Kulliyyah of Information Communication and Technology from the International Islamic University Malaysia (IIUM).
 Specializing in Information, Assurance and Security (IAS) as I am very interested in the cybersecurity-related fields.</p>
 
-### Fields of Interest
+<h3>Fields of Interest</h3>
 
 ---
-<ul>
-  <li>Cyber Security / Information System Security</li>
-  <p>- Risk Management</p>
-  <p>- Information Privacy</p>
-  <p>- Control Audit & Information Systems</p>
-  <p>- Business Continuity & Disaster Recovery</p>
-  <li>System Development</li>
-  - Web Application Development
-</ul>
+
+  <h4>Cyber Security / Information System Security</h4>
+  <ul>
+    <li>Risk Management</li>
+    <li>Information Privacy</li>
+    <li>Control Audit & Information Systems</li>
+    <li>Business Continuity & Disaster Recovery</li>
+  </ul>
+  
+  <h4>System Development</h4>
+  <ul>
+  <li>Web Application Development</li>
+  </ul>
 
 
 

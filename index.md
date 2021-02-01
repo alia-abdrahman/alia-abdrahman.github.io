@@ -21,9 +21,8 @@ Specializing in Information, Assurance and Security (IAS) as I am very intereste
   <ul>
   <li>Web Application Development</li>
   </ul>
-
-
-
+  
+  
 ## Portfolio
 
 ---

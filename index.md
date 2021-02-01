@@ -1,3 +1,10 @@
+### About Me 
+
+---
+<p>I am Nur Alia binti Abdul Rahman from Shah Alam, Selangor. Born on 21st Mac 1997 in the heart of Kuala Lumpur.
+A final year student of Kulliyyah of Information Communication and Technology from the International Islamic University Malaysia (IIUM).
+Specializing in Information, Assurance and Security (IAS) as I am very interested in the cybersecurity-related fields.</p>
+
 ## Portfolio
 
 ---
